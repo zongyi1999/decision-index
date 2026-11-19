@@ -1,0 +1,19 @@
+submissions/README.md
+  s_fa153a8b9e661e::t_e063281b5938a6 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d2a50262d25c5f2614bd7a9678fdc7f14866fd9d",
+  "prompts": {},
+  "sessions": {
+    "s_fa153a8b9e661e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ec4e-690c-7d80-b6c2-55dca0d83e54",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "zongyi1999 <26845561+zongyi1999@users.noreply.github.com>"
+    }
+  }
+}
